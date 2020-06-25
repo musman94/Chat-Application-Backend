@@ -22,8 +22,8 @@ Provide ids of both of the users and a non empty message body. Here from is the 
 
 ```json
 {
-    "from": "user1",
-    "to":  "user2",
+    "from": "1",
+    "to":  "2",
     "body" : "hello" 
 }
 ```
